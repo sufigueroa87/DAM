@@ -1,4 +1,4 @@
-![This is an image](https://img.freepik.com/free-vector/wise-owl_1045-217.jpg?w=740)
+![This is an image](https://img.freepik.com/free-vector/hand-drawn-wolf-outline-illustration_23-2149256565.jpg)
 
 **ENUNCIADO:**
 
