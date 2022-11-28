@@ -1,4 +1,4 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://www.freepik.com/free-vector/wise-owl_943754.htm#query=owl%20illustration&position=14&from_view=keyword)
 
 **Enunciado:**
 
