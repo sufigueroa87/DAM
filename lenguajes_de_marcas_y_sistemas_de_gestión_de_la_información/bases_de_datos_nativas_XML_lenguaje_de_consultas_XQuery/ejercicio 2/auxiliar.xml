@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ESTOC>
+  <FRUITA NOM="Maduixot">
+    <VITAMINES>B</VITAMINES>
+    <MINERALS>Potassi</MINERALS>
+    <VENDA>A granel</VENDA>
+    <PREU_KG>4.25</PREU_KG>
+    <ESTOC_KG>15</ESTOC_KG>
+  </FRUITA>
+  <FRUITA NOM="Kiwi gold extra">
+    <VITAMINES>B</VITAMINES>
+    <MINERALS>Potassi</MINERALS>
+    <VENDA>En pack</VENDA>
+   <PACK_APROX_GR>500</PACK_APROX_GR>
+    <PREU_KG>9</PREU_KG>
+    <ESTOC_KG>20</ESTOC_KG>
+  </FRUITA>
+  <FRUITA NOM="Panses moscatell">
+    <VITAMINES>C</VITAMINES>
+    <MINERALS>Ferro</MINERALS>
+    <VENDA>En pack</VENDA>
+    <PREU>2.10</PREU>
+    <PACK_APROX_GR>250</PACK_APROX_GR>
+    <PREU_KG>8.40</PREU_KG>
+    <ESTOC_KG>6</ESTOC_KG>
+  </FRUITA>
+</ESTOC>
