@@ -6,4 +6,12 @@ tenemos que usar la función concat para una buena visualización.
 
 pensar en la conversión de gramos a kg.
 
-![This is an image](https://img.freepik.com/free-vector/hand-drawn-wolf-outline-illustration_23-2149256565.jpg)
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/flower_53876-91077.jpg" />
+</p>
+
+<p align="right">
+  <sub>
+    <sub>Image by rawpixel.com on Freepik</sub>
+  </sub>
+</p>

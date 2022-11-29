@@ -6,4 +6,12 @@ queremos que aparezca el nombre, el tipo de venta y el precio por Kg correspondi
 
 necesitamos ordenar expresamente el resultado de manera que el listado empiece por la fruta más cara por Kg.
 
-![This is an image](https://img.freepik.com/free-vector/hand-drawn-wolf-outline-illustration_23-2149256565.jpg)
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/flower_53876-91077.jpg" />
+</p>
+
+<p align="right">
+  <sub>
+    <sub>Image by rawpixel.com on Freepik</sub>
+  </sub>
+</p>
