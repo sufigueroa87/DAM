@@ -4,6 +4,8 @@ en este repositorio iré añadiendo algunos ejercicios realizados en el ciclo su
   <img src="https://img.freepik.com/free-vector/apple-blossom-illustration-xmas-card_53876-75766.jpg" />
 </p>
 
-<p align="right" style="color:#E7E9EB">
-  <sub>Image by rawpixel.com on Freepik</sub>
+<p align="right">
+  <font color="lightgrey">
+    <sub>Image by rawpixel.com on Freepik</sub>
+  </font>
 </p>
