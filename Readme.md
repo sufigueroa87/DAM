@@ -5,5 +5,5 @@ en este repositorio iré añadiendo algunos ejercicios realizados en el ciclo su
 </p>
 
 <p align="right" color="blue">
-  Image by rawpixel.com on Freepik
+  <sub>Image by rawpixel.com on Freepik</sub>
 </p>
