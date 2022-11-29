@@ -5,7 +5,7 @@ en este repositorio iré añadiendo algunos ejercicios realizados en el ciclo su
 </p>
 
 <p align="right">
-  <font color="#d0d0d5">
-    Image by rawpixel.com on Freepik
-  </font>
+  <sub>
+    <sub>Image by rawpixel.com on Freepik</sub>
+  </sub>
 </p>
