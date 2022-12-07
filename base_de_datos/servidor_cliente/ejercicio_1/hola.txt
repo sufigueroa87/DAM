@@ -1,0 +1,16 @@
+    part     |  tipus   | especificacio | psuggerit | clau 
+-------------+----------+---------------+-----------+------
+ Processador | 2 GHz    | 32 bits       |           |    1
+ Processador | 2.4 GHz  | 32 bits       |        35 |    2
+ Processador | 1.7 GHz  | 64 bits       |       205 |    3
+ Processador | 3 GHz    | 64 bits       |       560 |    4
+ RAM         | 128MB    | 333 MHz       |        10 |    5
+ RAM         | 256MB    | 400 MHz       |        35 |    6
+ Disc Dur    | 80 GB    | 7200 rpm      |        60 |    7
+ Disc Dur    | 120 GB   | 7200 rpm      |        78 |    8
+ Disc Dur    | 200 GB   | 7200 rpm      |       110 |    9
+ Disc Dur    | 40 GB    | 4200 rpm      |           |   10
+ Monitor     | 1024x876 | 75 Hz         |        80 |   11
+ Monitor     | 1024x876 | 60 Hz         |        67 |   12
+(12 rows)
+

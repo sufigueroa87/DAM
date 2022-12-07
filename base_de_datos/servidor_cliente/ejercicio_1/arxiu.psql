@@ -1,0 +1,68 @@
+    drop table if exists productes_proveidors;
+    drop table if exists productes; 
+    drop table if exists proveidors;  
+    drop table if exists guany;
+    create table productes (
+      id_clau serial,
+      part varchar(20),
+      tipus varchar(20),
+      especificacio varchar(20), 
+      psuggerit float(6),
+      primary key (id_clau)
+    );
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Processador','2 GHz','32 bits',null);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Processador','2.4 GHz','32 bits',35);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Processador','1.7 GHz','64 bits',205);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Processador','3 GHz','64 bits',560);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('RAM','128MB','333 MHz',10);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('RAM','256MB','400 MHz',35);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Disc Dur','80 GB','7200 rpm',60);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Disc Dur','120 GB','7200 rpm',78);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Disc Dur','200 GB','7200 rpm',110);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Disc Dur','40 GB','4200 rpm',null);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Monitor','1024x876','75 Hz',80);
+    insert into productes (part,tipus,especificacio,psuggerit) values ('Monitor','1024x876','60 Hz',67);
+    create table proveidors(
+    id_empresa varchar(20) not null,
+    credit boolean,
+    efectiu boolean,
+    primary key(id_empresa)
+    );
+    insert into proveidors (id_empresa,efectiu) values ('Tecno-k',true); 
+    insert into proveidors (id_empresa,credit) values ('Patito',true); 
+    insert into proveidors (id_empresa,credit,efectiu) values ('Nacional',true,true);
+    create table guany( 
+    id_venda varchar(16), 
+    factor decimal (4,2),
+    primary key (id_venda)
+    );
+    insert into guany values('al engros',1.05); 
+    insert into guany values('al detall',1.12);
+    create table productes_proveidors ( 
+    id_empresa varchar(20) not null, 
+    id_clau int not null,
+    preu float(6),
+    primary key (id_empresa, id_clau),
+    foreign key (id_empresa) references proveidors, 
+    foreign key (id_clau) references productes
+    );
+    insert into productes_proveidors values ('Nacional',001,30.82); 
+    insert into productes_proveidors values ('Nacional',002,32.73); 
+    insert into productes_proveidors values ('Nacional',003,202.25); 
+    insert into productes_proveidors values ('Nacional',005,9.76); 
+    insert into productes_proveidors values ('Nacional',006,31.52); 
+    insert into productes_proveidors values ('Nacional',007,58.41); 
+    insert into productes_proveidors values ('Nacional',010,64.38); 
+    insert into productes_proveidors values ('Patito',001,30.40); 
+    insert into productes_proveidors values ('Patito',002,33.63); 
+    insert into productes_proveidors values ('Patito',003,195.59); 
+    insert into productes_proveidors values ('Patito',005,9.78);
+    insert into productes_proveidors values ('Patito',006,32.44); 
+    insert into productes_proveidors values ('Patito',007,59.99); 
+    insert into productes_proveidors values ('Patito',010,62.02); 
+    insert into productes_proveidors values ('Tecno-k',003,198.34); 
+    insert into productes_proveidors values ('Tecno-k',005,9.27); 
+    insert into productes_proveidors values ('Tecno-k',006,34.85); 
+    insert into productes_proveidors values ('Tecno-k',007,59.95); 
+    insert into productes_proveidors values ('Tecno-k',010,61.22); 
+    insert into productes_proveidors values ('Tecno-k',012,62.29);
