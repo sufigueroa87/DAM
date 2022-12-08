@@ -1,7 +1,8 @@
 <h2> Índice DAM / Programación </h2>
 
+<body align="justify">
 <h3>Diseño Modular:</h3>
-<ul align="justify">
+<ul>
 	<li>
    		<p><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_1">Ejercicio 1:</a> 
 	   		Creación de un programa de gestión de vuelos con lenguaje Java.
@@ -29,4 +30,4 @@
    		</p>
    	</li>
 </ul>
-
+</body>
