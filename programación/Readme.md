@@ -31,3 +31,17 @@
 </ul>
 <hr/>
 
+<h3>Gestión de Ficheros</h3>
+<ul>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_1">Ejercicio 1:</a> 
+	   		Crea un programa que lea un texto por teclado correspondiente a la ruta de un fichero existente de nuestro ordenador. Modifica el nombre de este fichero de manera que se elimine su extensión. Si por ejemplo el fichero se llama "Document.txt" pasará a llamarse "Document".
+   		</p>
+   	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_2">Ejercicio 2:</a> 
+	   		Realiza un programa que lea desde el teclado el texto asociado a la ruta a una carpeta existente en tu ordenador. Borra todos los elementos que hay dentro, independientemente que sean ficheros o carpetas. Ten en cuenta que para poder eliminar una carpeta primero hay que eliminar su contenido. Pista: uso de la recursividad.
+   		</p>
+   	</li>
+</ul>
+<hr/>
