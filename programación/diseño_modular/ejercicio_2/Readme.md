@@ -1,5 +1,5 @@
 **ENUNCIADO:**
 
-haz un programa que, dados dos arrays de valores reales, os diga cuál de ellos tiene el valor medio más alto.
+Haz un programa que, dados dos arrays de valores reales, os diga cuál de ellos tiene el valor medio más alto.
 
-aprovechad el principio de modularidad, de manera que su clase principal solo tenga definidos los médotos main e inicio.
+Aprovechad el principio de modularidad, de manera que su clase principal solo tenga definidos los médotos main e inicio.
