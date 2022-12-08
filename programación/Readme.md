@@ -1,6 +1,6 @@
-# Índice DAM/Programación:
+<h2>Índice DAM/Programación:</h2>
 
-## Diseño Modular:
+<h3 style="background-color:blue;">Diseño Modular:</h3>
 <ul>
 	<li>
    		<p><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_1">Ejercicio 1:</a> 
