@@ -8,7 +8,7 @@
 
 <h2>Índice DAM/Programación</h2>
 
-<div fill="blue">
+```diff
 <h3>Diseño Modular:</h3>
 <ul>
 	<li>
@@ -38,5 +38,5 @@
    		</p>
    	</li>
 </ul>
-</div>
+```
 
