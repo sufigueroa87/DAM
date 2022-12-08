@@ -1,6 +1,14 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 <h2>Índice DAM/Programación</h2>
 
-<div background-color="skyblue;">
+<div fill="blue">
 <h3>Diseño Modular:</h3>
 <ul>
 	<li>
