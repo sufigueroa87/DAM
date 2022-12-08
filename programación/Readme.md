@@ -1,5 +1,7 @@
 <h2> Índice DAM / Programación </h2>
+<br/>
 
+<div>
 <h3>Diseño Modular</h3>
 <ul>
 	<li>
@@ -30,7 +32,9 @@
    	</li>
 </ul>
 <hr/>
+</div>
 
+<div>
 <h3>Gestión de Ficheros</h3>
 <ul>
 	<li>
@@ -45,3 +49,4 @@
    	</li>
 </ul>
 <hr/>
+</div>
