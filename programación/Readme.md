@@ -1,7 +1,7 @@
 <h2> Índice DAM / Programación </h2>
 
 ```diff
-+ ## Diseño Modular:
+## + Diseño Modular:
 ```
 <ul>
 	<li>
