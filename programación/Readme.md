@@ -1,7 +1,7 @@
 <h2>Índice DAM/Programación</h2>
 
-<div style="background-color: blue;">
-<h3 style = "background-color:rgba(255,0,0,0.5);">Diseño Modular:</h3>
+<div background-color="skyblue;">
+<h3>Diseño Modular:</h3>
 <ul>
 	<li>
    		<p><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_1">Ejercicio 1:</a> 
