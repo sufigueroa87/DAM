@@ -1,5 +1,6 @@
 <h2>Índice DAM/Programación</h2>
 
+<div style="background-color: blue;">
 <h3 style = "background-color:rgba(255,0,0,0.5);">Diseño Modular:</h3>
 <ul>
 	<li>
@@ -14,7 +15,7 @@
    		</p>
    	</li>
 	<li>
-   		<p style="color: purple"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_3">Ejercicio 3:</a> 
+   		<p><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_3">Ejercicio 3:</a> 
    			Crea un programa que calcule el máximo, el mínimo y la media de un conjunto de notas.
    		</p>
    	</li>
@@ -28,6 +29,6 @@
 	   		Crea un programa que genere un array de 10 posiciones y cada una de ellas se inicialice con un valor cualquiera entre 1 y 10, y se muestren por pantalla. Para cada valor escrito entre las posiciones de 0 a 4, se busca si este se encuentra en alguna de las posiciones entre la 5 y la 9. Cada vez que encuentre uno de los valores, lo anuncia por pantalla. Usad todos los métodos de la clase Arrays posible.
    		</p>
    	</li>
-
 </ul>
+</div>
 
