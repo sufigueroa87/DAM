@@ -1,16 +1,7 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+<h2> Índice DAM / Programación </h2>
 
-<h2>Índice DAM/Programación</h2>
-
-```diff
-- ## Diseño Modular:
-<ul>
+<h3>Diseño Modular:</h3>
+<ul align="justify">
 	<li>
    		<p><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_1">Ejercicio 1:</a> 
 	   		Creación de un programa de gestión de vuelos con lenguaje Java.
@@ -38,5 +29,4 @@
    		</p>
    	</li>
 </ul>
-```
 
