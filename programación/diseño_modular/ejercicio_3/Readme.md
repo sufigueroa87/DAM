@@ -1,3 +1,3 @@
 **ENUNCIADO:**
 
-crea un programa que calcule el máximo, el mínimo y la media de un conjunto de notas.
+Crea un programa que calcule el máximo, el mínimo y la media de un conjunto de notas.
