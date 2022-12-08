@@ -1,4 +1,4 @@
-<h2>Índice DAM/Programación:</h2>
+<h2>Índice DAM/Programación</h2>
 
 <h3 style = "background-color:rgba(255,0,0,0.5);">Diseño Modular:</h3>
 <ul>
@@ -14,7 +14,7 @@
    		</p>
    	</li>
 	<li>
-   		<p><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_3">Ejercicio 3:</a> 
+   		<p style="color: purple"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_3">Ejercicio 3:</a> 
    			Crea un programa que calcule el máximo, el mínimo y la media de un conjunto de notas.
    		</p>
    	</li>
