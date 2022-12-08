@@ -2,7 +2,7 @@
 <hr/>
 
 <div>
-<h3>Diseño Modular</h3>
+<h3><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular">Diseño Modular</a></h3>
 <ul>
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_1">Ejercicio 1:</a> 
@@ -35,7 +35,7 @@
 </div>
 
 <div>
-<h3>Gestión de Ficheros</h3>
+<h3><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular">Gestión de Ficheros</a></h3>
 <ul>
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_1">Ejercicio 1:</a> 
