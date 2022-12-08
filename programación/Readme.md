@@ -1,6 +1,6 @@
 <h2> Índice DAM / Programación </h2>
 
-<div style="height:100px;width:400px;overflow:scroll;border:solid 2px orange;">
+<div style="border:dashed 2px black;">
 <h3>Diseño Modular</h3>
 <ul>
 	<li>
