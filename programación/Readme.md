@@ -1,4 +1,4 @@
-# ÍNDICE DAM/PROGRAMACIÓN:
+# Índice DAM/Programación:
 
 <details><summary>Diseño Modular</summary>
 	<ul>
