@@ -19,11 +19,12 @@ public class ImprimirCadenasArchivoScanner {
     public void imprimirCadenasFile(File f){
         if (existeFile(f)){
             try{
-                Scanner keyboard = new Scanner(f);
-                while (keyboard.hasNext()){
-                    String cadena = keyboard.next();
+                Scanner leerArchivo = new Scanner(f);
+                while (leerArchivo.hasNext()){
+                    String cadena = leerArchivo.next();
                     System.out.println(cadena);
                 }
+                leerArchivo.close();
             }
             catch (IOException e){
                 System.err.println("Problemas con el archivo.");
