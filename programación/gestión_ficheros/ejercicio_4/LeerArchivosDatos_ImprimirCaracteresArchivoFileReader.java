@@ -13,12 +13,12 @@ public class LeerArchivosDatos_ImprimirCaracteresArchivoFileReader {
     }
 
     public void inici(){
-        File f = creacionObjetoFile(System.getProperty("user.dir") + File.separator + "src/unitat6/u6_2_TractamentBasicDades/cursoProgramacionJava/AccesoAFicheros/LeerArchivosDatos_ImprimirCaracteresArchivoFileReader/lecturaCaracteresPorSeparado.txt");
-        FileReader fr = creacionObjetoFileReader(System.getProperty("user.dir") + File.separator + "src/unitat6/u6_2_TractamentBasicDades/cursoProgramacionJava/AccesoAFicheros/LeerArchivosDatos_ImprimirCaracteresArchivoFileReader/lecturaCaracteresPorSeparado.txt");
-        imprimirCaracteresArchivoFileReader(f, fr);
+        imprimirCaracteresArchivoFileReader(System.getProperty("user.dir") + File.separator + "src/unitat6/u6_2_TractamentBasicDades/cursoProgramacionJava/AccesoAFicheros/LeerArchivosDatos_ImprimirCaracteresArchivoFileReader/lecturaCaracteresPorSeparado.txt");
     }
 
-    public void imprimirCaracteresArchivoFileReader(File f, FileReader fr){
+    public void imprimirCaracteresArchivoFileReader(String ruta){
+        FileReader fr = creacionObjetoFileReader(ruta);
+        File f = creacionObjetoFile(ruta);
         for (int i = 0; i < f.length(); i++){
             try{
                 System.out.println((char)fr.read());
@@ -26,6 +26,12 @@ public class LeerArchivosDatos_ImprimirCaracteresArchivoFileReader {
             catch (IOException e){
                 System.err.println("Problemas con el archivo.");
             }
+        }
+        try{
+            fr.close();
+        }
+        catch (IOException e){
+            System.err.println("Problemas con el fichero " + f.getName());
         }
     }
 
