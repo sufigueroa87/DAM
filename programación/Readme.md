@@ -72,6 +72,11 @@
    			Realiza un programa que lea los valores de un archivo que contenga 15 números reales. Además, tiene que mostrar por pantalla el número mayor.
    		</p>
    	</li>	
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_8">Ejercicio 8:</a> 
+   			Realiza un programa que escriba en un fichero llamado FicherosPares.txt 20 números pares. Haz que también se imprima el contenido de este fichero una vez esté lleno.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
