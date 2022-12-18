@@ -13,12 +13,12 @@ public class ImprimirVocalesRegex {
     }
 
     public void inici(){
-        FileReader fr = crearObjetoFileReader("src/unitat6/u6_2_TractamentBasicDades/cursoProgramacionJava/AccesoAFicheros/LeerArchivosDatos_ImprimirVocalesRegex/buscarVocales.txt");
-        File f = crearObjetoFile("src/unitat6/u6_2_TractamentBasicDades/cursoProgramacionJava/AccesoAFicheros/LeerArchivosDatos_ImprimirVocalesRegex/buscarVocales.txt");
-        imprimirVocalesFile(f, fr);
+        imprimirVocalesFile("src/unitat6/u6_2_TractamentBasicDades/cursoProgramacionJava/AccesoAFicheros/LeerArchivosDatos_ImprimirVocalesRegex/buscarVocales.txt");
     }
 
-    public void imprimirVocalesFile(File f, FileReader fr){
+    public void imprimirVocalesFile(String ruta){
+        FileReader fr = crearObjetoFileReader(ruta);
+        File f = crearObjetoFile(ruta);
         for(int i = 0; i <= f.length(); i++){
             try{
                 char valor = (char)fr.read();
@@ -32,6 +32,13 @@ public class ImprimirVocalesRegex {
                 System.out.println("Problemas con el archivo.");
             }
         }
+        try{
+            fr.close();
+        }
+        catch(IOException e){
+            System.err.println("Problemes amb l'arxiu.");
+        }
+
     }
 
     public FileReader crearObjetoFileReader(String ruta){
