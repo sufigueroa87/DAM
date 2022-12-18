@@ -47,6 +47,11 @@
 	   		Realiza un programa que lea desde el teclado el texto asociado a la ruta a una carpeta existente en tu ordenador. Borra todos los elementos que hay dentro, independientemente que sean ficheros o carpetas. Ten en cuenta que para poder eliminar una carpeta primero hay que eliminar su contenido. Pista: uso de la recursividad.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_3">Ejercicio 3:</a> 
+	   		Realiza un programa que imprima el contenido de un fichero orientado a carácteres, cadena por cadena, y cada cadena en una línea diferente.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
