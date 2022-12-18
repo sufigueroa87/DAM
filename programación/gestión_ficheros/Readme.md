@@ -46,7 +46,7 @@
    	</li>	
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0009">Ejercicio 0009:</a> 
-   			Realiza un programa que escriba en un fichero llamado FicherosDobles.txt. Haz también que imprima el contenido del fichero una vez lleno en pantalla.
+   			Realiza un programa que escriba en un fichero llamado FicherosDobles.txt 20 valores, siendo el siguiente valor el doble del anterior valor. Haz también que imprima el contenido del fichero una vez lleno en pantalla.
    		</p>
    	</li>	
 	<li>

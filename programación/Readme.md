@@ -38,50 +38,55 @@
 <h3><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros">Gestión de Ficheros</a></h3>
 <ul>
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_1">Ejercicio 1:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0001">Ejercicio 0001:</a> 
 	   		Crea un programa que lea un texto por teclado correspondiente a la ruta de un fichero existente de nuestro ordenador. Modifica el nombre de este fichero de manera que se elimine su extensión. Si por ejemplo el fichero se llama "Document.txt" pasará a llamarse "Document".
    		</p>
    	</li>
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_2">Ejercicio 2:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0002">Ejercicio 0002:</a> 
 	   		Realiza un programa que lea desde el teclado el texto asociado a la ruta a una carpeta existente en tu ordenador. Borra todos los elementos que hay dentro, independientemente que sean ficheros o carpetas. Ten en cuenta que para poder eliminar una carpeta primero hay que eliminar su contenido. Pista: uso de la recursividad.
    		</p>
    	</li>
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_3">Ejercicio 3:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0003">Ejercicio 0003:</a> 
 	   		Realiza un programa que imprima el contenido de un fichero orientado a carácteres, cadena por cadena, y cada cadena en una línea diferente.
    		</p>
    	</li>
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_4">Ejercicio 4:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0004">Ejercicio 0004:</a> 
 	   		Realiza un programa que imprima el contenido de un fichero orientado a carácteres, carácter por carácter. Pista: usar la clase java.io.FileReader.   	
    		</p>
    	</li>
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_5">Ejercicio 5:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0005">Ejercicio 0005:</a> 
 	   		Realiza un programa que imprima solo las vocales del contenido de un fichero orientado a carácteres. Pista: usar la regex [aeiou] y la clase java.io.FileReader.
    		</p>
    	</li>
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_6">Ejercicio 6:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0006">Ejercicio 0006:</a> 
 	   		Realiza un programa que muestre la cantidad de vocales que contiene un fichero de tipo carácteres.
    		</p>
    	</li>	
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_7">Ejercicio 7:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0007">Ejercicio 0007:</a> 
    			Realiza un programa que lea los valores de un archivo que contenga 15 números reales. Además, tiene que mostrar por pantalla el número mayor.
    		</p>
    	</li>	
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_8">Ejercicio 8:</a> 
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0008">Ejercicio 0008:</a> 
    			Realiza un programa que escriba en un fichero llamado FicherosPares.txt 20 números pares. Haz que también se imprima el contenido de este fichero una vez esté lleno.
    		</p>
    	</li>
 	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_9">Ejercicio 9:</a> 
-   			Realiza un programa que escriba en un fichero llamado FicherosDobles.txt. Haz también que imprima el contenido del fichero una vez lleno en pantalla.
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0009">Ejercicio 0009:</a> 
+   			Realiza un programa que escriba en un fichero llamado FicherosDobles.txt 20 valores, siendo el siguiente valor el doble del anterior valor. Haz también que imprima el contenido del fichero una vez lleno en pantalla.
    		</p>
    	</li>	
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0010">Ejercicio 0010:</a> 
+   			Realiza un programa que escriba en un fichero llamado 5valoresCadaLinea.txt los valores de 1 a 20. Haz que escriba 5 valores en cada línea y también que imprima el contenido del fichero una vez lleno en pantalla.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
