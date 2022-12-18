@@ -77,6 +77,11 @@
    			Realiza un programa que escriba en un fichero llamado FicherosPares.txt 20 números pares. Haz que también se imprima el contenido de este fichero una vez esté lleno.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_9">Ejercicio 9:</a> 
+   			Realiza un programa que escriba en un fichero llamado FicherosDobles.txt. Haz también que imprima el contenido del fichero una vez lleno en pantalla.
+   		</p>
+   	</li>	
 </ul>
 <hr/>
 </div>
