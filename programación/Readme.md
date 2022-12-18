@@ -52,6 +52,11 @@
 	   		Realiza un programa que imprima el contenido de un fichero orientado a carácteres, cadena por cadena, y cada cadena en una línea diferente.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_4">Ejercicio 4:</a> 
+	   		Realiza un programa que imprima el contenido de un fichero orientado a carácteres, carácter por carácter. Pista: usar la clase java.io.FileReader.   	
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
