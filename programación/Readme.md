@@ -67,6 +67,11 @@
 	   		Realiza un programa que muestre la cantidad de vocales que contiene un fichero de tipo carácteres.
    		</p>
    	</li>	
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_7">Ejercicio 7:</a> 
+   			Realiza un programa que lea los valores de un archivo que contenga 15 números reales. Además, tiene que mostrar por pantalla el número mayor.
+   		</p>
+   	</li>	
 </ul>
 <hr/>
 </div>
