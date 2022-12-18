@@ -62,6 +62,11 @@
 	   		Realiza un programa que imprima solo las vocales del contenido de un fichero orientado a carácteres. Pista: usar la regex [aeiou] y la clase java.io.FileReader.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_6">Ejercicio 6:</a> 
+	   		Realiza un programa que muestre la cantidad de vocales que contiene un fichero de tipo carácteres.
+   		</p>
+   	</li>	
 </ul>
 <hr/>
 </div>
