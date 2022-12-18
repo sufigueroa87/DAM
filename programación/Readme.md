@@ -57,6 +57,11 @@
 	   		Realiza un programa que imprima el contenido de un fichero orientado a carácteres, carácter por carácter. Pista: usar la clase java.io.FileReader.   	
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_5">Ejercicio 5:</a> 
+	   		Realiza un programa que imprima solo las vocales del contenido de un fichero orientado a carácteres. Pista: usar la regex [aeiou] y la clase java.io.FileReader.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
