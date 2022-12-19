@@ -59,6 +59,11 @@
    			Realiza un programa que lea valores de un fichero llamado Integers.txt, hasta una marca que haga que deje de leer.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0012">Ejercicio 0012:</a> 
+   			Realiza un programa que lea un fichero llamado Document.txt que contiene distintas palabras. El programa tiene que contar la media de vocales por palabras que hay en total (cantidad de vocales/cantidad de palabras). Muestra la media por pantalla.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
