@@ -56,7 +56,7 @@
    	</li>
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0011">Ejercicio 0011:</a> 
-   			Realiza un programa que lea valores de un fichero llamado lecturaHastaMarca.txt, hasta una marca que haga que deje de leer.
+   			Realiza un programa que lea valores de un fichero llamado Integers.txt, hasta una marca que haga que deje de leer.
    		</p>
    	</li>
 </ul>
