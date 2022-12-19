@@ -64,6 +64,11 @@
    			Realiza un programa que lea un fichero llamado Document.txt que contiene distintas palabras. El programa tiene que contar la media de vocales por palabras que hay en total (cantidad de vocales/cantidad de palabras). Muestra la media por pantalla.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0013">Ejercicio 0013:</a> 
+   			Crea un programa que lea los valores de un archivo llamado "Enters.txt" (contiene 20 valores enteros). Este programa tiene que ordenar los valores que hay en el fichero y tiene que escribirlos ordenados en otro archivo llamado "EntersOrdenat.txt".
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
