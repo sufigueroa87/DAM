@@ -69,6 +69,11 @@
    			Crea un programa que lea los valores de un archivo llamado "Enters.txt" (contiene 20 valores enteros). Este programa tiene que ordenar los valores que hay en el fichero y tiene que escribirlos ordenados en otro archivo llamado "EntersOrdenat.txt".
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0014">Ejercicio 0014:</a> 
+   			Crea un programa que modifique un fichero orientado a carácteres (modificacionValores.txt) que contiene 10 valores de tipo integer, sumando 5 a los valores que se encuentran en las posiciones pares. Pista: se deben leer todos los valores, almacenarlos en un array, hacer las modificaciones y sobreescribir el fichero original completo.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
