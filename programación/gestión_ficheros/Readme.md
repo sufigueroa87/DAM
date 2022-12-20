@@ -106,6 +106,11 @@
    			Ahora, reemplaza el fichero "Enters.bin" por 5 valores integers -1. El resultado final es un fichero de solo 20bytes, en vez de 80 bytes. Pistas: usa el método writeInt para reescribir en el archivo binario. Usa el método getFilePointer() para saber donde se encuentra el apuntador. Usa el método setLength(apuntador) para establecer la dimensión del archivo.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0019">Ejercicio 0019:</a> 
+   			Crea un programa que lea un fichero orientado a bytes llamado "Enters.bin" (contiene n valores integers). Estos valores se tienen que ver por pantalla. Pista: como no sabemos la cantidad de valores integers que contiene el fichero, usaremos la medida del fichero para hallar la cantidad de valores, teniendo en cuenta lo que ocupa un integer.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
