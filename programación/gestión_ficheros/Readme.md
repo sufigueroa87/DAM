@@ -111,6 +111,11 @@
    			Crea un programa que lea un fichero orientado a bytes llamado "Enters.bin" (contiene n valores integers). Estos valores se tienen que ver por pantalla. Pista: como no sabemos la cantidad de valores integers que contiene el fichero, usaremos la medida del fichero para hallar la cantidad de valores, teniendo en cuenta lo que ocupa un integer.
    		</p>
    	</li>
+	<li>
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0020">Ejercicio 0020:</a> 
+   			Crea un programa que lea un fichero orientado a bytes llamado "Enters.bin" (contiene n valores integers). El programa tiene que ordenar los valores de más grande a más pequeño. Pista: conociendo la medida del fichero podemos saber la cantidad de valores integers que contiene.
+   		</p>
+   	</li>
 </ul>
 <hr/>
 </div>
