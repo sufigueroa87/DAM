@@ -20,7 +20,6 @@
 
 <div>
 <h3><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery">XPath y XQuery</a></h3>
-<div>
 <h4><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001">Pack de ejercicios 0001: búsquedas en el archivo "facturacio.xml" (Material del IOC · Institut Obert de Catalunya)</a></h4>
 <ul>
 	<li>
@@ -52,10 +51,10 @@
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0006">Ejercicio 0006:</a> 
 	   		Haz una lista del total de las facturas emitidas a los clientes, ordenadas de mayor a menor importe.
    		</p>
-   	</li>	
-
-<div>
-<h4> Pack de ejercicios 0002: búsquedas en el archivo "6nations11.xml" (Material del IOC · Institut Obert de Catalunya)</h4>
+   	</li>
+</ul>	
+<hr/>
+<h4><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002">Pack de ejercicios 0002: búsquedas en el archivo "6nations11.xml" (Material del IOC · Institut Obert de Catalunya)</a></h4>
 <ul>
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0007">Ejercicio 0007:</a> 
@@ -77,8 +76,6 @@
 	   		Qué partido ha ganado Italia?   	
    		</p>
    	</li>
-
-</div>
 </ul>
 <hr/>
 </div>
