@@ -21,7 +21,7 @@
    	</li>
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0004">Ejercicio 0004:</a> 
-	   		Cuanto dinero se ha ingresado por la venta de los "porquets de xocolata blanca"?   	
+	   		Cuanto dinero se ha ingresado por la venta de los "Porquets de xocolata blanca"?   	
    		</p>
    	</li>
 	<li>
@@ -34,9 +34,12 @@
 	   		Haz una lista del total de las facturas emitidas a los clientes, ordenadas de mayor a menor importe.
    		</p>
    	</li>	
+</ul>
+<hr/>
+</div>
 
 <h3><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002">Pack de ejercicios 0002: búsquedas en el archivo </a></h4>
-
+<div>
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0007">Ejercicio 0007:</a> 
    			.
