@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <feed> : arrel, per informar a qui llegeixi el document que el que està llegint és un canal Atom -->
+<!-- xmlns="http:"http://www.w3.org/2005/Atom" : atribut obligatori que ha de dur l'element arrel <feed>, per possibilitar que els documents Atom es puguin mesclar amb documents XML d'altres vocabularis sense problemes -->
+<!-- defineixo el llenguatge en ca perquè el contingut del canal estarà en català xml:lang="ca" -->
+<feed  xml:lang="ca" xmlns="http://www.w3.org/2005/Atom"> 
+      
+  <!-- a) ETIQUETES QUE PROPORCIONEN DADES SOBRE EL CANAL -->
+  <!-- a.1) ETIQUETES OBLIGATÒRIES QUE PROPORCIONEN DADES SOBRE EL CANAL (title, updated, id) -->
+  <!-- <title> : element obligatori, conté el nom del canal, normalment és el de la pàgina web que l'ha creat -->
+  <title>Actualitat Astronomia</title>
+  
+  <!-- <updated> : element obligatori, darrer cop que es va actualitzar el canal -->
+  <updated>2022-11-13T15:00:10Z</updated>
+  
+  <!-- <id> : element obligatori, identificador únic i universal del canal, si es té una adreça web que no està prevista que canvï en molt de temps, es pot fer servir aquesta adreça com a id -->
+  <id>https://susanafigueroa.com/astronomia/subscripcions/</id>
+  
+  <!-- a.2) ETIQUETES OPCIONALS QUE PROPORCIONEN DADES SOBRE EL CANAL (en aquest cas he optat per icon, generator, link, author) -->
+  <!-- <icon> : element opcional, enllaç a una icona identificativa del canal -->
+  <icon>https://cdn.pixabay.com/photo/2017/11/01/13/08/art-2907939_960_720.png</icon>
+  
+  <!-- <generator> : element opcional, identifica el programa que s'ha fet servir per crear el canal -->
+  <generator>Text Editor</generator>
+  
+  <!-- <link> : element opcional però molt recomanable, identifica la pàgina web equivalent al canal, s'hi defineix la relació amb l'atribut rel -->
+  <link rel="alternate" type ="text/html" href="https://susanafigueroa.com/astronomia/subscripcions/"/>
+  
+  <!-- <author> : element opcional però molt recomanable, permet identificar l'autor del canal, hi pot haver múltiples autors -->
+  <author>
+    <!-- name -> obligatori -->
+    <name>Susana Figueroa</name>
+    <!-- email -> optatiu -->
+    <email>shiun7@gmail.com</email>
+    <!-- uri -> optatiu -->
+    <uri>https://www.susanafigueroa.com</uri>
+  </author>
+  
+  <!-- <subtitle> : element opcional per detallar una mica més de què va el canal -->
+  <subtitle>Notícies interessants en relació a l'Astronomia</subtitle>
+  <!-- ******* FI ETIQUETES QUE PROPORCIONEN DADES SOBRE EL CANAL ******* -->
+  
+  
+  <!-- b) INICI ETIQUETES AMB EL CONTINGUT DEL CANAL -->
+  <!-- PRIMERA ENTRADA -->
+  <!-- <entry> : element opcional per definir les diferents entrades dins d'un canal Atom -->
+  <entry>
+    <!-- b.1) ETIQUETES OBLIGATÒRIES AMB EL CONTINGUT DEL CANAL (title, id, updated, content, link) -->
+    <!-- <title> : element obligatori, títol de l'entrada que es publica -->
+    <title>Leònides 2022: Quan, Com i On veure la Pluja d'Estrelles</title>
+  
+    <!-- <id> : element obligatori, identificador únic de l'entrada, sol ser la URI de la pàgina on és -->
+    <id>https://www.elperiodico.com/es/ciencia/20221116/leonidas-noviembre-2022-cuando-donde-ver-dv-78644254</id>
+  
+    <!-- <updated> : element obligatori, data en què es va crear o actualitzar l'entrada -->
+    <updated>2011-11-16T20:04:12Z</updated>
+  
+    <!-- <content> : element obligatori, conté el contingut de l'entrada, s'hi pot especificar de quin tipus és el contingut -->
+    <content type="text">Les Leònides és un event celest en el que s'observa la irradiació de varis meteorits des d'un punt en el cel nocturn. Cada any es poden veure des del 6 de novembre fins el dia 30, una pluja d'estrelles especialment visible en la constel·lació Leo. Però des del passat dia 14 i fins aquest divendres és quan es podrà disfrutar millor de l'event.</content>
+  
+    <!-- <link> : element obligatori, conté l'URL de l'entrada, n'hi pot haver diverses sempre que es canviï el tipus o s'apunti a un lloc diferent -->
+    <link rel="alternate" href="https://www.elperiodico.com/es/ciencia/20221116/leonidas-noviembre-2022-cuando-donde-ver-dv-78644254"/>
+  
+    <!-- b.2) ETIQUETES OPCIONALS AMB EL CONTINGUT DEL CANAL -->
+    <!-- <author> : element opcional si ja s'ha definit un autor en les metadades del canal, sino passa a ser obligatori. nom de l'autor de l'entrada, n'hi pot haver diversos -->
+    <author>
+      <!-- name -> obligatori -->
+      <name>Valentina Raffio</name>
+    </author>
+  
+    <!-- <published> : element opcional, data en què es va crear l'entrada -->
+    <published>2022-11-16T20:04:12Z</published>
+  </entry>
+
+
+  <!-- SEGONA ENTRADA -->
+  <entry>
+    <title>El Planetari Sleuthing troba el Món de les Triples Estrelles</title>
+    <id>https://www.nasa.gov/feature/ames/planetary-sleuthing-finds-triple-star-world</id>
+    <updated>2021-01-12T13:40:00Z</updated>
+    <content type="text">Anys després de la seva detecció, els astrònoms han confirmat un planeta anomenat KOI-5Ab que orbita en un sistema de triples estrelles amb una configuració skewed.</content>
+    <link rel="alternate" href="https://www.nasa.gov/feature/ames/planetary-sleuthing-finds-triple-star-world"/>  
+    <author>
+      <name>Elizabeth Landau</name>
+      <email>elizabeth.r.landau@nasa.gov</email>
+    </author>
+    <author>
+      <name> Alison Hawkes</name>
+      <email>alison.hawkes@nasa.gov</email>
+    </author>
+    <published>2021-01-11T13:40:00Z</published>
+  </entry>
+  
+  
+  <!-- TERCERA ENTRADA -->
+  <entry>
+    <title>Artemis I: la NASA llença el seu cohet més potent mai construït per tornar a la Lluna</title>
+    <id>https://www.bbc.com/mundo/noticias-62712498</id>
+    <updated>2011-11-16T18:25:02Z</updated>
+    <content type="text">La NASA va enviar el seu nou i gegantí cohet, el Sistema de llençament espacial (SLS), amb l'objectiu d'assentar les bases per una presència humana sostenible a la superfície de la Lluna i avançar en el camí cap a missions tripulades al planeta vermell, Mart.</content>
+    <link rel="alternate" href="https://www.bbc.com/mundo/noticias-62712498"/>  
+    <author>
+      <name>Jonathan Amos</name>
+    </author>
+    <published>2022-11-16T18:25:02Z</published>
+  </entry>
+  
+</feed>
