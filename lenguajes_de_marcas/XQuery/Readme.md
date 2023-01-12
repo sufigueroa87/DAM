@@ -40,7 +40,6 @@
 </div>
 
 <h3><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002">Pack de ejercicios 0002: búsquedas en el archivo "6nations11.xml" (Material del IOC · Institut Obert de Catalunya)</a></h3>
-<hr/>
 
 <div>
 <ul>
