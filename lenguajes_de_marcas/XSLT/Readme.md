@@ -4,15 +4,14 @@
 <div>
 <ul>
 	<li>
-   		<p align="justify"><a href="">Ejercicio 0001:</a> 
-	   		Genera un documento XSLT para transformar documentos XML de un formato a otro.
-
-			A partir del documento activitat2.xml proporcionado crea una plantilla XSLT llamada activitat2.xsl para realizar la transformación del mismo.
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XSLT/ejercicio_0001">Ejercicio 0001:</a> 
+	   		Genera un documento XSLT para transformar el archivo activitat2.xml para que se muestre tal que así:
    		</p>
    	</li>
 	<li>
-   		<p align="justify"><a href="">Ejercicio 0002:</a> 
-	   		Genera un documento XSLT para transformar el archivo agenda_xslt.xml.
+   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XSLT/ejercicio_0002">Ejercicio 0002:</a> 
+	   		Genera un documento XSLT para transformar el archivo agenda_xslt.xml para que se muestre tal que así:
+	   		<image src="https://raw.githubusercontent.com/sufigueroa87/dam/main/lenguajes_de_marcas/XSLT/ejercicio_0002/agenda_xslt.jpg">
    		</p>
    	</li>
 </ul>
