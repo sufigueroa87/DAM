@@ -1,5 +1,5 @@
 **ENUNCIADO:**
 
-Genera un documento XSLT para transformar documentos XML de un formato a otro.
+Genera un documento XSLT para transformar el archivo activitat2.xml para que se muestre tal que así:
 
-A partir del documento activitat2.xml proporcionado crea una plantilla XSLT llamada activitat2.xsl para realizar la transformación del mismo.
+![Imagen del resultado esperado]("https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XSLT/ejercicio_0001/activitat2_xslt.jpg")
