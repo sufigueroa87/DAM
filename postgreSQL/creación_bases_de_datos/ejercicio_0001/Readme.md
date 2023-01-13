@@ -13,7 +13,11 @@
 6. Crea la tabla usuarios (id_usuario, nombre, apellidos). El id_usuario es de tipo serial.
 
 7. Crea la tabla reservas (id_reserva, fk_bici, fk_usuario, fechainicio, fechafinal, precio).
-	7.1. El atributo id_reserva es una primary key de tipo autonumérico.
-	7.2. Los atributos fk_bici y fk_usuario son foreign key de tipo autonumérico. No pueden ser null y su integridad se actualiza en cascada.
-	7.3. Los atributos fechainicio y fechafinal es el espacio de tiempo donde el usuario reserva la bicicleta. No pueden ser null.
-	7.4. El atributo precio es de tipo numérico. Por defecto tiene un valor de 35 y no puede ser null.
+	
+7.1. El atributo id_reserva es una primary key de tipo autonumérico.
+
+7.2. Los atributos fk_bici y fk_usuario son foreign key de tipo autonumérico. No pueden ser null y su integridad se actualiza en cascada.
+
+7.3. Los atributos fechainicio y fechafinal es el espacio de tiempo donde el usuario reserva la bicicleta. No pueden ser null.
+
+7.4. El atributo precio es de tipo numérico. Por defecto tiene un valor de 35 y no puede ser null.
