@@ -1,6 +1,6 @@
 <h2> Enunciado </h2>
 <hr/>
-
+<img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0001/base_de_datos_ejercicio_0001.jpg"> 
 <div>
 <ol>
 	<li>
