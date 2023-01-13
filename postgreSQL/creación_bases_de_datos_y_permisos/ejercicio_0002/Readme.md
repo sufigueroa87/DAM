@@ -1,5 +1,5 @@
 <h2> Enunciado </h2>
-<img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0001/base_de_datos_ejercicio_0001.jpg"> 
+<img src=""> 
 <hr/>
 
 <div>
@@ -30,7 +30,7 @@
    	</li>
 	<li>
    		<p> 
-	   		Crea una tabla llamada usuarios (id_usuario, dni, nombre, direccion, email)
+	   		Crea una tabla llamada usuarios (id_usuario, dni, nombre, apellidos, direccion, email)
    		</p>
 	   	<ol>
 	   		<li>
@@ -56,25 +56,22 @@
    		</p>
 	   	<ol>
 	   		<li>
-   				El atributo id_usuario es único y no puede ser null (será clave primária de tipo serial).
+   				El atributo id_actividad es único y no puede ser null (será clave primária de tipo serial).
    			</li>
    			<li>
-   				Los atributos nombre y apellidos son de tipo alfanumérico. No pueden ser null.
+   				El atributo nombre_actividad es de tipo alfanumérico. No puede ser null.
    			</li>
    			<li>
-   				El atributo direccion es de tipo alfanumérico. No puede ser null.
+   				El atributo descripcion es de tipo alfanumérico.
    			</li>
    			<li>
-   				El atributo email es de tipo alfanumérico. No puede ser null.
-   			</li>
-  			<li>
-   				El atributo dni es de tipo alfanumérico. Es único y no puede ser null.
+   				El atributo precio es de tipo numérico.
    			</li>
    		</ol>
    	</li>
 	<li>
    		<p> 
-	   		Crea la tabla llamada inscripcion (id_inscripcion, id_usuario, id_actividad, fecha_inicio, fecha_fin)
+	   		Crea la tabla llamada inscripcion (id_inscripcion, fk_id_usuario, kf_id_actividad, fecha_inicio, fecha_fin)
    		</p>
 	   	<ol>
 	   		<li>
@@ -93,7 +90,7 @@
    	</li>
 	<li>
    		<p> 
-	   		Crea un usuario llamado master, que tenga privilegios para crear roles y usuarios. Además, se tendrá que poder validar y deberá tener el password 'luke' encriptado.
+	   		Crea un usuario llamado master que sea el propietario de las tablas que acabas de crear y que tenga privilegios para crear roles y usuarios. Además, se tendrá que poder validar y deberá tener el password 'luke' encriptado.
    		</p>
    	</li>	
 </ol>
