@@ -16,7 +16,6 @@
 	<li>
    		<p> 
 	   		Crea una base de datos llamada bikesharing, que se dedica a alquilar bicicletas. Haz que superuser0001 sea propietario de esta base de datos.
-
    		</p>
    	</li>
 	<li>
