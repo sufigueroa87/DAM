@@ -1,5 +1,5 @@
 <h2> Enunciado </h2>
-<img src="https://github.com/sufigueroa87/dam/blob/main/postgreSQL/creaci%C3%B3n_tablas_y_usuarios_con_permisos/ejercicio_0002/ejercicio_0002.jpg"> 
+<img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0002/ejercicio_0002.jpg"> 
 <hr/>
 
 <div>
