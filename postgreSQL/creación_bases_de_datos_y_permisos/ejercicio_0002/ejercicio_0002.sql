@@ -252,11 +252,8 @@
 		
 		red=> UPDATE usuarios SET nombre = 'Laura' WHERE id_usuario = 1;
 		ERROR:  permission denied for table usuarios
-
-	
-			
-			
-			
+		
+		
 		
 		
 		
