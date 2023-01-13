@@ -6,7 +6,7 @@
 <ol>
 	<li>
    		<p>
-	   		Crea con el usuario postgres una base de datos llamada "Red".
+	   		Crea con el usuario postgres una base de datos llamada 'Red'.
    		</p>
    	</li>
 	<li>
@@ -90,9 +90,50 @@
    	</li>
 	<li>
    		<p> 
-	   		Crea un usuario llamado master que sea el propietario de las tablas que acabas de crear y que tenga privilegios para crear roles y usuarios. Además, se tendrá que poder validar y deberá tener el password 'luke' encriptado.
+	   		Crea un usuario llamado 'user0002' que sea el propietario de la base de datos 'red' y de las tablas que acabas de crear. También otórgale privilegios para crear roles y crear bases de datos. Además, se tendrá que poder validar y deberá tener el password 'luke' encriptado.
    		</p>
    	</li>	
+	<li>
+   		<p> 
+	   		Conéctate como 'user0002' a la base de datos 'red'. Crea el rol de informático, que tenga la herencia activada y control para realizar consultas, inserciones y eliminaciones sobre todas las tablas.
+   		</p>
+   	</li>
+	<li>
+   		<p> 
+	   		Siendo 'user0002', crea el rol de monitor sin herencia, que pueda consultar las tablas usuarios e inscripciones, y realizar todas las operaciones sobre la tabla actividades.
+   		</p>
+   	</li>
+	<li>
+   		<p> 
+	   		Siendo 'user0002', crea el rol de comercial sin herencia, que pueda realizar las cuatro operaciones sobre la tabla usuarios y sobre la tabla inscripcion, y consultas sobre la tabla actividades y sobre la tabla trabajadores.
+   		</p>
+   	</li>
+	<li>
+   		<p> 
+	   		Siendo 'user0002', crea el usuario 'u0002a' con password 'secretu0002a', con herencia y asignándole el rol de monitor.
+   		</p>
+   	</li>
+	<li>
+   		<p> 
+	   		Siendo 'user0002', crea el usuario 'u0002b' con password 'secretu0002b', con herencia y asignándole el rol de informatico.
+   		</p>
+   	</li>
+	<li>
+   		<p> 
+	   		Siendo 'user0002', crea el usuario 'u0002c' con password 'secretu0002c', con herencia y asignándole el rol de comercial.
+   		</p>
+   	</li>
+   	<li>
+   		<p> 
+	   		Siendo 'user0002' Inserta en cada tabla un registro.
+   		</p>
+   	</li>
+   	</li>
+   	<li>
+   		<p> 
+	   		Accede a la tabla red siento el usuario u0002a e intenta ver todos los registros de las 3 tablas. También intenta hacer un update en cada uno de los registros.
+   		</p>
+   	</li>
 </ol>
 <hr/>
 </div>
