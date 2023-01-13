@@ -52,6 +52,16 @@
    			</li>
    		</ol>
    	</li>	
+   	<li>
+   		<p>
+   			Crea el papel/rol de gerente, que tenga herencia activada y control para realizar consultas, inserciones, modificaciones y eliminaciones sobre todas las tablas.
+   		</p>
+   	</li>
+   	<li>
+   		<p>
+   			Crea el usuario teresa con password teresa123. No hereda automáticamente. Asígnale privilegios del rol gerente.
+   		</p>
+   	</li>
 </ol>
 <hr/>
 </div>
