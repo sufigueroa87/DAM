@@ -2,7 +2,7 @@
 <hr/>
 
 <div>
-<0l>
+<ol>
 	<li>
    		<p>
 	   		Crea un usuario llamado superuser0001 con derechos de superusuario y con la password secret0001.
@@ -38,7 +38,7 @@
    		<p> 
 	   		Crea la tabla reservas (id_reserva, fk_bici, fk_usuario, fechainicio, fechafinal, precio).
    		</p>
-   		<ul>
+   		<ol>
 	   		<li>
    				El atributo id_reserva es una primary key de tipo autonumérico.
    			</li>
@@ -51,8 +51,8 @@
    			<li>
    				El atributo precio es de tipo numérico. Por defecto tiene un valor de 35 y no puede ser null.
    			</li>
-   		</ul>
+   		</ol>
    	</li>	
-</ul>
+</ol>
 <hr/>
 </div>
