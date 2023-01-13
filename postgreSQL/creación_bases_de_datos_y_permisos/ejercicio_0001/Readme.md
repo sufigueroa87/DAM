@@ -1,4 +1,4 @@
-<h2> Enunciado (Enunciado del IOC · Institut Obert de Catalunya)</h2>
+<h2> Enunciado (Ejercicios del IOC · Institut Obert de Catalunya)</h2>
 <img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0001/base_de_datos_ejercicio_0001.jpg"> 
 <hr/>
 <div>
