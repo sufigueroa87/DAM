@@ -6,7 +6,7 @@
 <ol>
 	<li>
    		<p>
-	   		Crea con el usuario postgres una base de datos llamada Red.
+	   		Crea con el usuario postgres una base de datos llamada red.
    		</p>
    	</li>
 	<li>
