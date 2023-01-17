@@ -1,4 +1,4 @@
--- 1. Crea con el usuario postgres una base de datos llamada 'Red'. 
+-- 1. Crea con el usuario postgres una base de datos llamada red. 
 		
 	-- RESPUESTA:
 	-- 1.1.
@@ -96,7 +96,7 @@
 		\dt inscripcion
 
 
--- 6. Crea un usuario llamado 'user0002' que sea el propietario de la base de datos 'red' y de las tablas que acabas de crear. También otórgale privilegios para crear roles y crear bases de datos. Además, se tendrá que poder validar y deberá tener el password 'secret0002' encriptado.
+-- 6. Crea un usuario llamado user0002 que sea el propietario de la base de datos red y de las tablas que acabas de crear. También otórgale privilegios para crear roles y crear bases de datos. Además, se tendrá que poder validar y deberá tener el password 'secret0002' encriptado.
 
 	-- RESPUESTA:
 	-- 6.1.
@@ -105,7 +105,7 @@
 			LOGIN
 			CREATEROLE
 			ENCRYPTED PASSWORD 'secret0002';
-	-- miro que se haya creado bien el usuario 'user0002':
+	-- miro que se haya creado bien el usuario user0002:
 		\du user0002
 	-- 6.2. 
 		ALTER TABLE IF EXISTS trabajadores
@@ -127,7 +127,7 @@
 		\l red
 
 
--- 7. Conéctate como 'user0002' a la base de datos 'red'. Crea el rol de informático, que tenga la herencia activada y control para realizar consultas, inserciones y eliminaciones sobre todas las tablas.
+-- 7. Conéctate como user0002 a la base de datos red. Crea el rol de informático, que tenga la herencia activada y control para realizar consultas, inserciones y eliminaciones sobre todas las tablas.
 
 	-- RESPUESTA:
 	-- 7.1. 
@@ -142,7 +142,7 @@
 		GRANT SELECT, INSERT, DELETE, UPDATE ON trabajadores, usuarios, actividades, inscripcion TO informatico;
 	
 	
--- 8. Siendo 'user0002', crea el rol de monitor sin herencia, que pueda consultar las tablas usuarios e inscripciones, y realizar todas las operaciones sobre la tabla actividades.
+-- 8. Siendo user0002, crea el rol de monitor sin herencia, que pueda consultar las tablas usuarios e inscripciones, y realizar todas las operaciones sobre la tabla actividades.
 	
 	-- RESPUESTA:
 	-- 8.1.
@@ -155,7 +155,7 @@
 		GRANT SELECT, INSERT, DELETE, UPDATE ON actividades TO monitor;
 
 
--- 9. Siendo 'user0002', crea el rol de comercial sin herencia, que pueda realizar las cuatro operaciones sobre la tabla usuarios y sobre la tabla inscripcion, y consultas sobre la tabla actividades y sobre la tabla trabajadores.
+-- 9. Siendo user0002, crea el rol de comercial sin herencia, que pueda realizar las cuatro operaciones sobre la tabla usuarios y sobre la tabla inscripcion, y consultas sobre la tabla actividades y sobre la tabla trabajadores.
 
 	-- RESPUESTA:
 	-- 9.1. 
@@ -167,7 +167,7 @@
 		
 		GRANT SELECT ON actividades TO comercial;
 
--- 10. Siendo 'user0002', crea el usuario 'u0002a' con password 'secretu0002a', con herencia y asignándole el rol de monitor.
+-- 10. Siendo user0002, crea el usuario u0002a con password 'secretu0002a', con herencia y asignándole el rol de monitor.
 
 	-- RESPUESTA:
 	-- 10.1. 
@@ -179,7 +179,7 @@
 		GRANT monitor TO u0002a;
 		
 
--- 11. Siendo 'user0002', crea el usuario 'u0002b' con password 'secretu0002b', con herencia y asignándole el rol de informatico.
+-- 11. Siendo user0002, crea el usuario u0002b con password 'secretu0002b', con herencia y asignándole el rol de informatico.
 
 	-- RESPUESTA:
 	-- 11.1.
@@ -190,7 +190,7 @@
 	-- 11.2.
 		GRANT informatico TO u0002b;
 
--- 12. Siendo 'user0002', crea el usuario 'u0002c' con password 'secretu0002c', con herencia y asignándole el rol de comercial.
+-- 12. Siendo user0002, crea el usuario u0002c con password 'secretu0002c', con herencia y asignándole el rol de comercial.
 
 	-- RESPUESTA:
 	-- 12.1. 
@@ -201,7 +201,7 @@
 	-- 12.2. 
 		GRANT comercial TO u0002c;
 
--- 13. Siendo 'user0002' inserta en cada tabla un registro.
+-- 13. Siendo user0002 inserta en cada tabla un registro.
 
 	-- RESPUESTA:
 	-- 13.1. Inserción de registro en la tabla actividades:
