@@ -4,10 +4,10 @@
 	CREATE OR REPLACE FUNCTION resta_num(a integer, b integer)
 	RETURNS integer AS $$
 	DECLARE
-		resultat integer;
+		resultado integer;
 	BEGIN
-		resultat := $1 - $2;
-	RAISE NOTICE ' El valor del resultat correspon a % ', resultat;
-	RETURN resultat;
+		resultado := $1 - $2;
+	RAISE NOTICE ' El valor del resultado corresponde a %.', resultado;
+	RETURN resultado;
 	END;
 	$$ LANGUAGE plpgsql;
