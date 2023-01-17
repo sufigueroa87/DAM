@@ -20,7 +20,7 @@
    		<p>
 	   		Resultado:
    		</p>
-   		<img href="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/funciones/ejercicio_0002/ejercicio_0002_resultado.png"/>
+   		<img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/funciones/ejercicio_0002/ejercicio_0002_resultado.png"/>
    	</li>
 </ol>
 </div>
