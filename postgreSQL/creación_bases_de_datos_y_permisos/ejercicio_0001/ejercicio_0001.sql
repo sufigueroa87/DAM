@@ -1,4 +1,4 @@
--- 1. Crea un usuario llamado superuser0001 con derechos de superusuario y con la password secret0001.
+-- 1. Crea un usuario llamado superuser0001 con derechos de superusuario y con la password 'secret0001'.
 	
 	-- RESPUESTA:
 	-- 1.1. con el usuario postgres:
