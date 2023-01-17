@@ -1,5 +1,5 @@
-<h2> Enunciado (Ejercicios del IOC · Institut Obert de Catalunya)</h2>
-<img src="https://github.com/sufigueroa87/dam/blob/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0001/ejercicio_0001.jpg"> 
+<h2><a href="https://github.com/sufigueroa87/dam/tree/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0001">Enunciado (Ejercicios del IOC · Institut Obert de Catalunya)</a></h2>
+<img src="https://github.com/sufigueroa87/dam/blob/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0001/ejercicio_0001.jpg"/> 
 <div>
 <ol>
 	<li>
