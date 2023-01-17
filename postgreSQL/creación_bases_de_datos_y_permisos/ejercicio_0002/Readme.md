@@ -1,5 +1,5 @@
-<h2> Enunciado </h2>
-<img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0002/ejercicio_0002.jpg"> 
+<h2><a href="https://github.com/sufigueroa87/dam/tree/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0002">Enunciado ejercicio_0002. (Enunciado del Institut Obert de Catalunya (IOC))</a></h2>
+<img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/creaci%C3%B3n_bases_de_datos_y_permisos/ejercicio_0002/ejercicio_0002.jpg"/> 
 <hr/>
 
 <div>
