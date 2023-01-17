@@ -1,4 +1,4 @@
-CREATE DATABASE e0001funciones
+CREATE DATABASE db_funciones_a
 WITH
 	OWNER = postgres
 	ENCODING = 'UTF8'
