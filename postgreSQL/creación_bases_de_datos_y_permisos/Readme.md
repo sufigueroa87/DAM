@@ -1,6 +1,4 @@
-<h2>Creación bases de datos y permisos</h2>
-<hr/>
-
+<h2>Creación bases de datos y permisos </h2>
 <div>
 <ul>
 	<li>
@@ -15,5 +13,4 @@
    	</li>
 </ul>
 </div>
-
 <hr/>

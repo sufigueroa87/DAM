@@ -1,6 +1,4 @@
 <h2>Creación bases de datos y permisos </h2>
-<hr/>
-
 <div>
 <ul>
 	<li>
@@ -15,12 +13,10 @@
    	</li>
 </ul>
 </div>
-
 <hr/>
+
 
 <h2>Funciones </h2>
-<hr/>
-
 <div>
 <ul>
 	<li>
@@ -35,7 +31,6 @@
    	</li>
 </ul>
 </div>
-
 <hr/>
 
 
