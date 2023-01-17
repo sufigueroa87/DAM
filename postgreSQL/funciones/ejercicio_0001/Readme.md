@@ -15,7 +15,7 @@
    		<p>
 	   		Resultado:
    		</p>
-   		<img src=""/>
+   		<img src="https://raw.githubusercontent.com/sufigueroa87/dam/main/postgreSQL/funciones/ejercicio_0001/ejercicio_0001_resultado.png"/>
    	</li>
 </ol>
 </div>
