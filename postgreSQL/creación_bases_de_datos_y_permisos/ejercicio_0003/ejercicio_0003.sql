@@ -66,9 +66,7 @@
 	
 	-- RESPUESTA:
 	-- 5.1. 
-		SET SEARCH_PATH TO rrhh;
-		
-		CREATE TABLE oficinas (
+		CREATE TABLE rrhh.oficinas (
 			id_ofi serial,
 			direccion character varying(100) not null,
 			CONSTRAINT "PK_id_ofi" PRIMARY KEY (id_ofi)
@@ -76,9 +74,7 @@
 	-- 5.2.
 		\d rrhh.oficinas	
 	-- 5.3.
-		SET SEARCH_PATH TO rrhh;
-	
-		CREATE TABLE empleados (
+		CREATE TABLE rrhh.empleados (
 			id_emp serial,
 			nombre character varying(50) not null,
 			apellidos character varying(100) not null,
@@ -86,8 +82,8 @@
 			fk_oficina integer not null,
 			fk_jefe integer,
 			CONSTRAINT "PK_id_emp" PRIMARY KEY (id_emp),
-			CONSTRAINT "FK_fk_oficina" FOREIGN KEY (fk_oficina) REFERENCES oficinas(id_ofi) ON UPDATE CASCADE ON DELETE CASCADE,
-			CONSTRAINT "FK_fk_jefe" FOREIGN KEY (fk_jefe) REFERENCES empleados(id_emp) ON UPDATE CASCADE ON DELETE SET NULL
+			CONSTRAINT "FK_fk_oficina" FOREIGN KEY (fk_oficina) REFERENCES rrhh.oficinas(id_ofi) ON UPDATE CASCADE ON DELETE CASCADE,
+			CONSTRAINT "FK_fk_jefe" FOREIGN KEY (fk_jefe) REFERENCES rrhh.empleados(id_emp) ON UPDATE CASCADE ON DELETE SET NULL
 		);
 	-- 5.4.
 		\d rrhh.empleados
@@ -101,9 +97,7 @@
 	
 	-- RESPUESTA:
 	-- 6.1. 
-		SET SEARCH_PATH TO ventas;
-		
-		CREATE TABLE clientes (
+		CREATE TABLE ventas.clientes (
 			id_cli serial,
 			dni character varying(10) unique not null,
 			nombre character varying(50) not null,
