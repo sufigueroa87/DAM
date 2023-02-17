@@ -8,7 +8,7 @@ XPath y XQuery
 
 1. **Pack de ejercicios 0001: búsquedas en el archivo "facturacio.xml" (Enunciados del Institut Obert de Catalunya)**
 
-   * [🐈](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0001) Ejercicio 0001: Nombre de los clientes que tienen una factura más grande de 500 €. [🐈](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0001)
+   * [🐈](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0001) `Ejercicio 0001: Nombre de los clientes que tienen una factura más grande de 500 €.` [🐈](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0001)
 
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0002">Ejercicio 0002:</a> 
