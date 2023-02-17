@@ -1,4 +1,6 @@
-<h2> Índice DAM / Lenguajes de marcas </h2>
+Lenguajes de marcas
+=======
+
 <hr/>
 
 <div>
