@@ -4,7 +4,9 @@ Lenguajes de marcas
 XPath y XQuery
 -----------
 
-<h4><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001">Pack de ejercicios 0001: búsquedas en el archivo "facturacio.xml" (Material del IOC · Institut Obert de Catalunya)</a></h4>
+`Pack de ejercicios 0001: búsquedas en el archivo "facturacio.xml" (Ejercicios del Institut Obert de Catalunya)`
+
+<h4><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001">Pack de ejercicios 0001: búsquedas en el archivo "facturacio.xml" (Institut Obert de Catalunya)</a></h4>
 <ul>
 	<li>
    		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0001">Ejercicio 0001:</a> 
