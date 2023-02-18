@@ -8,32 +8,15 @@ XPath y XQuery
 
    * [`Ejercicio 0001: Nombre de los clientes que tienen una factura más grande de 500 €.`](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0001)
 
-	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0002">Ejercicio 0002:</a> 
-	   		Qué cantidad total se ha vendido de los "Porquets de xocolata"?
-   		</p>
-   	</li>
-	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0003">Ejercicio 0003:</a> 
-	   		En cuántos recibos se han vendido "Porquets de xocolata"?
-   		</p>
-   	</li>
-	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0004">Ejercicio 0004:</a> 
-	   		Cuanto dinero se ha ingresado por la venta de los "Porquets de xocolata blanca"?   	
-   		</p>
-   	</li>
-	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0005">Ejercicio 0005:</a> 
-	   		En qué recibos se han vendido 3 o más artículos?
-   		</p>
-   	</li>
-	<li>
-   		<p align="justify"><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0006">Ejercicio 0006:</a> 
-	   		Haz una lista del total de las facturas emitidas a los clientes, ordenadas de mayor a menor importe.
-   		</p>
-   	</li>
-</ul>	
+   * [`Ejercicio 0002: Qué cantidad total se ha vendido de los "Porquets de xocolata"?`](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0002)
+
+   * [`Ejercicio 0003: En cuántos recibos se han vendido "Porquets de xocolata"?`](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0003)
+
+   * [`Ejercicio 0004: Cuanto dinero se ha ingresado por la venta de los "Porquets de xocolata blanca"?`](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0004)
+
+   * [`Ejercicio 0005: En qué recibos se han vendido 3 o más artículos?`](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0005)
+
+   * [`Ejercicio 0006: Haz una lista del total de las facturas emitidas a los clientes, ordenadas de mayor a menor importe.`](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0006)
 
 <h4><a href="https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002">Pack de ejercicios 0002: búsquedas en el archivo "6nations11.xml" (Material del IOC · Institut Obert de Catalunya)</a></h4>
 <ul>
