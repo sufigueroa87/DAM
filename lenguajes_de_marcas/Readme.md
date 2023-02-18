@@ -19,11 +19,11 @@ Lenguajes de marcas
 
 2. **Pack de ejercicios 0002: búsquedas en el archivo** [6nations11.xml](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/6nations11.xml) **(Enunciados del** [Institut Obert de Catalunya](https://ioc.xtec.cat/educacio/)**)**
 
-   * [`Ejercicio 0001: ¿Cuántos puntos en total ha logrado marcar Francia en el torneo?](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0001/6nations11_1.xqy)
+   * [`Ejercicio 0001: ¿Cuántos puntos en total ha logrado marcar Francia en el torneo?`](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0001/6nations11_1.xqy)
    
-   * [`Ejercicio 0002: ¿En qué partidos ha jugado Escocia?](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0002/6nations11_2.xqy)
+   * [`Ejercicio 0002: ¿En qué partidos ha jugado Escocia?`](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0002/6nations11_2.xqy)
    
-   * [`Ejercicio 0003: Haz un listado de todos los partidos que han jugado especificando qué equipos se enfrentaban.](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0003/6nations11_3.xqy)
+   * [`Ejercicio 0003: Haz un listado de todos los partidos que han jugado especificando qué equipos se enfrentaban.`](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0003/6nations11_3.xqy)
    
    * [`Ejercicio 0004: ¿Qué partido ha ganado Italia?`](https://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0002/ejercicio_0004/6nations11_4.xqy)
    
