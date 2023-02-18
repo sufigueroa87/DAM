@@ -4,7 +4,7 @@ Lenguajes de marcas
 XPath y XQuery
 -----------
 
-1. **Pack de ejercicios 0001: búsquedas en el archivo** [facturacio.xml](lenguajes_de_marcas/XQuery/pack_ejercicios_0001/facturacio.xml) **(Enunciados del Institut Obert de Catalunya)**
+1. **Pack de ejercicios 0001: búsquedas en el archivo** [facturacio.xml](lhttps://github.com/sufigueroa87/dam/blob/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/facturacio.xml) **(Enunciados del Institut Obert de Catalunya)**
 
    * [`Ejercicio 0001: Nombre de los clientes que tienen una factura más grande de 500 €.`](https://github.com/sufigueroa87/dam/tree/main/lenguajes_de_marcas/XQuery/pack_ejercicios_0001/ejercicio_0001)
 
