@@ -68,7 +68,9 @@ Programación
    - Métodos getters de todos los atributos.
    - comprobarConsumoEnergetico(char letra): comprueba que la letra es correcta, si no es correcta utiliza la letra por defecto. Se invocará en crear el objeto y no será visible.
    - comprobarColor(String color): comprueba que el color es correcto, si no lo es utiliza el color por defecto. Se invocará en crear el objeto y no será visible.
-   - precioFinal(): según el consumo energético, aumentará su precio, y según su medida, también. Los precios según el consumo energético son: A _ 100 euros, B _ 80 euros, C _ 60 euros, D _ 50 euros, E _ 30 euros, F _ 10 euros. Los precios según el tamaño son: entre 0 y 19Kg _ 10 euros, entre 20Kg y 49Kg _ 50 euros, entre 50Kg y 79Kg _ 80 euros, mayor que 80Kg _ 100 euros.
+   - precioFinal(): según el consumo energético, aumentará su precio, y según su medida, también. 
+
+![](https://raw.githubusercontent.com/sufigueroa87/dam/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001/POO_ejercicio0001.jpg)
 
 2. [`Ejercicio 0002:`]()
 
