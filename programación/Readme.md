@@ -57,18 +57,18 @@ Programación
 ## Programación Orientada a Objetos
 1. [`Ejercicio 0001:`]()
 - Crea una clase llamada Electrodomestico, con las siguientes características:
-* Sus atributos son precio base, color, consumo energético (con las letras entre la A y la F) y peso. Indica que se podrán heredar.
-* Por defecto, el color será blanco, el consumo energético será F, el precio base es de 100 euros y el peso de 5Kg. Usa constantes para esto.
-* Los colores disponibles son blanco, negro, rojo, azul y gris. No importa si el nombre está en mayúsculas o minúsculas.
+   - Sus atributos son precio base, color, consumo energético (con las letras entre la A y la F) y peso. Indica que se podrán heredar.
+   - Por defecto, el color será blanco, el consumo energético será F, el precio base es de 100 euros y el peso de 5Kg. Usa constantes para esto.
+   - Los colores disponibles son blanco, negro, rojo, azul y gris. No importa si el nombre está en mayúsculas o minúsculas.
 - Los constructores a implementar son:
-* Un constructor por defecto
-* Un constructor con el precio y el peso. La resta por defecto.
-* Un constructor con todos los atributos.
+   - Un constructor por defecto
+   - Un constructor con el precio y el peso. La resta por defecto.
+   - Un constructor con todos los atributos.
 - Los métodos que se implementarán serán:
-* Métodos getters de todos los atributos.
-* comprobarConsumoEnergetico(char letra): comprueba que la letra es correcta, si no es correcta utiliza la letra por defecto. Se invocará en crear el objeto y no será visible.
-* comprobarColor(String color): comprueba que el color es correcto, si no lo es utiliza el color por defecto. Se invocará en crear el objeto y no será visible.
-* precioFinal(): según el consumo energético, aumentará su precio, y según su medida, también. Los precios según el consumo energético son: A _ 100 euros, B _ 80 euros, C _ 60 euros, D _ 50 euros, E _ 30 euros, F _ 10 euros. Los precios según el tamaño son: entre 0 y 19Kg _ 10 euros, entre 20Kg y 49Kg _ 50 euros, entre 50Kg y 79Kg _ 80 euros, mayor que 80Kg _ 100 euros.
+   - Métodos getters de todos los atributos.
+   - comprobarConsumoEnergetico(char letra): comprueba que la letra es correcta, si no es correcta utiliza la letra por defecto. Se invocará en crear el objeto y no será visible.
+   - comprobarColor(String color): comprueba que el color es correcto, si no lo es utiliza el color por defecto. Se invocará en crear el objeto y no será visible.
+   - precioFinal(): según el consumo energético, aumentará su precio, y según su medida, también. Los precios según el consumo energético son: A _ 100 euros, B _ 80 euros, C _ 60 euros, D _ 50 euros, E _ 30 euros, F _ 10 euros. Los precios según el tamaño son: entre 0 y 19Kg _ 10 euros, entre 20Kg y 49Kg _ 50 euros, entre 50Kg y 79Kg _ 80 euros, mayor que 80Kg _ 100 euros.
 
 2. [`Ejercicio 0002:`]()
 
