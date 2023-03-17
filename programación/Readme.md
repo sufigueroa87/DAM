@@ -70,7 +70,7 @@ Programación
    - comprobarColor(String color): comprueba que el color es correcto, si no lo es utiliza el color por defecto. Se invocará en crear el objeto y no será visible.
    - precioFinal(): según el consumo energético, aumentará su precio, y según su medida, también. 
 
-![](https://raw.githubusercontent.com/sufigueroa87/dam/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001/POO_ejercicio0001.jpg)
+![](https://raw.githubusercontent.com/sufigueroa87/dam/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001/OOP_ejercicio0001.jpg)
 
 2. [`Ejercicio 0002:`]()
 
