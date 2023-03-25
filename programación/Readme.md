@@ -55,7 +55,7 @@ Programación
 
 
 ## Programación Orientada a Objetos
-1. [`Ejercicio 0001:`]()
+1. [`Ejercicio 0001:`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001)
 - Crea una clase llamada Electrodomestico, con las siguientes características:
    - Sus atributos son precio base, color, consumo energético (con las letras entre la A y la F) y peso. Indica que se podrán heredar.
    - Por defecto, el color será blanco, el consumo energético será F, el precio base es de 100 euros y el peso de 5Kg. Usa constantes para esto.
