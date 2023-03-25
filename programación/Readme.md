@@ -72,7 +72,7 @@ Programación
 
 ![](https://raw.githubusercontent.com/sufigueroa87/dam/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001/OOP_ejercicio0001.jpg)
 
-2. [`Ejercicio 0002: (Ejercicio del INS Esteve Terradas i Illa)`]()
+2. [`Ejercicio 0002: (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0002)
 - Crea una clase llamada Serie con las siguientes características:
    - Sus atributos son título, número de temporadas, entregado, género y creador.
    - Por defecto, el nombre de temporadas es de 3 temporadas y entregado false. El resto de atributos serán valores por defecto según el tipo de atributo.
@@ -85,7 +85,7 @@ Programación
    - Métodos set de todos los atributos, excepto entregado.
    - Sobreescribir los métodos toString. 
 
-3. [`Ejercicio 0003: (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0002)
+3. [`Ejercicio 0003: (Ejercicio del INS Esteve Terradas i Illa)`]()
 - Crea una clase Libro que contenga los atributos siguientes :
    - ISBN
    - Título
