@@ -2,15 +2,15 @@ Programación
 =======
 
 ## Diseño Modular
-1. [`Ejercicio 0001: Creación de un programa de gestión de vuelos con lenguaje Java.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_1)
+1. [`Ejercicio 0001: Creación de un programa de gestión de vuelos con lenguaje Java. (Ejercicio del Institut Obert de Catalunya)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_1)
 
-2. [`Ejercicio 0002: Haz un programa que, dados dos arrays de valores reales, os diga cuál de ellos tiene el valor medio más alto. Aprovechad el principio de modularidad, de manera que su clase principal solo tenga definidos los médotos main e inicio.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_2)
+2. [`Ejercicio 0002: Haz un programa que, dados dos arrays de valores reales, os diga cuál de ellos tiene el valor medio más alto. Aprovechad el principio de modularidad, de manera que su clase principal solo tenga definidos los médotos main e inicio. (Ejercicio del Institut Obert de Catalunya)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_2)
 
-3. [`Ejercicio 0003: Crea un programa que calcule el máximo, el mínimo y la media de un conjunto de notas.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_3)
+3. [`Ejercicio 0003: Crea un programa que calcule el máximo, el mínimo y la media de un conjunto de notas. (Ejercicio del Institut Obert de Catalunya)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_3)
 
-4. [`Ejercicio 0004: Muestra por pantalla dos valores reales aleatorios de manera que la clase Random se inicialice con un parámetro de tipo long, y también se inicialice sin parámetro de entrada.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_4)
+4. [`Ejercicio 0004: Muestra por pantalla dos valores reales aleatorios de manera que la clase Random se inicialice con un parámetro de tipo long, y también se inicialice sin parámetro de entrada. (Ejercicio del Institut Obert de Catalunya)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_4)
 
-5. [`Ejercicio 0005: Crea un programa que genere un array de 10 posiciones y cada una de ellas se inicialice con un valor cualquiera entre 1 y 10, y se muestren por pantalla. Para cada valor escrito entre las posiciones de 0 a 4, se busca si este se encuentra en alguna de las posiciones entre la 5 y la 9. Cada vez que encuentre uno de los valores, lo anuncia por pantalla. Usad todos los métodos de la clase Arrays posible.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_5)
+5. [`Ejercicio 0005: Crea un programa que genere un array de 10 posiciones y cada una de ellas se inicialice con un valor cualquiera entre 1 y 10, y se muestren por pantalla. Para cada valor escrito entre las posiciones de 0 a 4, se busca si este se encuentra en alguna de las posiciones entre la 5 y la 9. Cada vez que encuentre uno de los valores, lo anuncia por pantalla. Usad todos los métodos de la clase Arrays posible. (Ejercicio del Institut Obert de Catalunya)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/dise%C3%B1o_modular/ejercicio_5)
 
 ## Gestión de Ficheros
 1. [`Ejercicio 0001: Crea un programa que lea un texto por teclado correspondiente a la ruta de un fichero existente de nuestro ordenador. Modifica el nombre de este fichero de manera que se elimine su extensión. Si por ejemplo el fichero se llama "Document.txt" pasará a llamarse "Document".`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0001)
@@ -51,11 +51,11 @@ Programación
 
 19. [`Ejercicio 0019: Crea un programa que lea un fichero orientado a bytes llamado "Enters.bin" (contiene n valores integers). Estos valores se tienen que ver por pantalla. Pista: como no sabemos la cantidad de valores integers que contiene el fichero, usaremos la medida del fichero para hallar la cantidad de valores, teniendo en cuenta lo que ocupa un integer.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0019)
 
-20. [`Ejercicio 0020: CCrea un programa que lea un fichero orientado a bytes llamado "Enters.bin" (contiene n valores integers). El programa tiene que ordenar los valores de más grande a más pequeño. Pista: conociendo la medida del fichero podemos saber la cantidad de valores integers que contiene.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0020)
+20. [`Ejercicio 0020: Crea un programa que lea un fichero orientado a bytes llamado "Enters.bin" (contiene n valores integers). El programa tiene que ordenar los valores de más grande a más pequeño. Pista: conociendo la medida del fichero podemos saber la cantidad de valores integers que contiene.`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/gesti%C3%B3n_ficheros/ejercicio_0020)
 
 
 ## Programación Orientada a Objetos
-1. [`Ejercicio 0001:`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001)
+1. [`Ejercicio 0001: (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001)
 - Crea una clase llamada Electrodomestico, con las siguientes características:
    - Sus atributos son precio base, color, consumo energético (con las letras entre la A y la F) y peso. Indica que se podrán heredar.
    - Por defecto, el color será blanco, el consumo energético será F, el precio base es de 100 euros y el peso de 5Kg. Usa constantes para esto.
@@ -72,7 +72,18 @@ Programación
 
 ![](https://raw.githubusercontent.com/sufigueroa87/dam/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001/OOP_ejercicio0001.jpg)
 
-2. [`Ejercicio 0002:`]()
+2. [`Ejercicio 0002: (Ejercicio del INS Esteve Terradas i Illa)`]()
+- Crea una clase llamada Serie con las siguientes características:
+   - Sus atributos son título, número de temporadas, entregado, género y creador.
+   - Por defecto, el nombre de temporadas es de 3 temporadas y librado false. El resto de atributos serán valores por defecto según el tipo de atributo.
+- Los constructores que se implementarán serán:
+   - Un constructor por defecto.
+   - Un constructor con el título del creador. La resta por defecto.
+   - Un constructor con todos los atributos, excepto entregado.
+- Los métodos que se implementarán serán:
+   - Métodos get de todos los atributos, excepto entregado.
+   - Métodos set de todos los atributos, excepto entregado.
+   - Sobreescribir los métodos toString. 
 
 3. [`Ejercicio 0003:`]()
 
