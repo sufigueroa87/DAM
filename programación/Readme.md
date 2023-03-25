@@ -85,7 +85,7 @@ Programación
    - Métodos set de todos los atributos, excepto entregado.
    - Sobreescribir los métodos toString. 
 
-3. [`Ejercicio 0003: (Ejercicio del INS Esteve Terradas i Illa)`]()
+3. [`Ejercicio 0003: (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0003)
 - Crea una clase Libro que contenga los atributos siguientes :
    - ISBN
    - Título
@@ -97,5 +97,18 @@ Programación
 - En el fichero main, crear 2 objetos Libro (con los valores que se quieran) y mostrarlos por pantalla.
 - Finalmente, indicar qué libro de los dos creados tiene más páginas.
 
-4. [`Ejercicio 0004:`]()
+4. [`Ejercicio 0004: (Ejercicio del INS Esteve Terradas i Illa)`]()
+- Realizaremos una clase llamada Raices, donde representaremos los valores de una ecuación de segundo grado.
+- Tendremos los 3 coeficientes como atributos, llamados a, b y c.
+- Necesitamos insertar estos 3 valores para construir el objeto.
+- Las operaciones que se podrán realizar serán las siguientes:
+   - obtenerRaices(): imprime las 2 posibles soluciones.
+   - obetenrRaiz(): imprime una única raíz, que será cuando solo tenga una solución posible.
+   - getDiscriminante(): devuelve el valor del discriminante (double). El discriminante tiene la fórmula b²-4*a*c.
+   - tieneRaices(): devuelve un boolean indicando si tiene dos soluciones. Para que esto suceda, el discriminante tiene que ser mayor o igual a 0.
+   - tieneRaiz(): devuelve un boolean indicando si tiene una única solución. Para que esto suceda, el discriminante tiene que ser igual a 0.
+   - calcular(): muestra por consola las posibles soluciones que tiene nuestra ecuación, en caso de no existir solución, mostrarlo también.
+- Fórmula de la ecuación de segundo grado: (-b±√((b^2)-(4*a*c)))/(2*a).
+- Solo cambia el signo delante de -b.
 
+5. []()
