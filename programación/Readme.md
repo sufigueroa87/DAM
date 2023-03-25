@@ -75,7 +75,7 @@ Programación
 2. [`Ejercicio 0002: (Ejercicio del INS Esteve Terradas i Illa)`]()
 - Crea una clase llamada Serie con las siguientes características:
    - Sus atributos son título, número de temporadas, entregado, género y creador.
-   - Por defecto, el nombre de temporadas es de 3 temporadas y librado false. El resto de atributos serán valores por defecto según el tipo de atributo.
+   - Por defecto, el nombre de temporadas es de 3 temporadas y entregado false. El resto de atributos serán valores por defecto según el tipo de atributo.
 - Los constructores que se implementarán serán:
    - Un constructor por defecto.
    - Un constructor con el título del creador. La resta por defecto.
