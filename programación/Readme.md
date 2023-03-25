@@ -85,7 +85,17 @@ Programación
    - Métodos set de todos los atributos, excepto entregado.
    - Sobreescribir los métodos toString. 
 
-3. [`Ejercicio 0003:`]()
+3. [`Ejercicio 0003: (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0002)
+- Crea una clase Libro que contenga los atributos siguientes:
+   - ISBN
+   - Título
+   - Autor
+   - Nombre de páginas
+- Crea sus métodos get y set que corresponden a cada atributo.
+- Crea el método toString() para mostrar la información relativa al libro con el formato:
+   - "El libro con ISBN ___ creado por el autor ___ tiene ___ páginas."
+- En el fichero main, crear 2 objetos Libro (con los valores que se quieran) y mostrarlos por pantalla.
+- Finalmente, indicar qué libro de los dos creados tiene más páginas.
 
 4. [`Ejercicio 0004:`]()
 
