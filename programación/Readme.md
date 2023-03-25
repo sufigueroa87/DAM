@@ -86,7 +86,7 @@ Programación
    - Sobreescribir los métodos toString. 
 
 3. [`Ejercicio 0003: (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0002)
-- Crea una clase Libro que contenga los atributos siguientes:
+- Crea una clase Libro que contenga los atributos siguientes :
    - ISBN
    - Título
    - Autor
