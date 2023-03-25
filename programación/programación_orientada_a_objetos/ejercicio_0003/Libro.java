@@ -57,19 +57,19 @@ public class Libro {
         return "El libro con ISBN " + ISBN + " creado por el autor " + autor + " tiene " + numPaginas + ".";
     }
 
-    //Método libro con más páginas
+    //Método opción A _ libro con más páginas
     public void libroMasPaginas(Libro a, Libro b){
-        Libro libroMasPaginas = new Libro();
-        if (a.getNumPaginas() > b.getNumPaginas()){
-            libroMasPaginas = a;
-        } else if (a.getNumPaginas() == b.getNumPaginas()) {
+        String tituloMasPaginas = "";
+        if (a.numPaginas > b.numPaginas){
+            tituloMasPaginas = a.titulo;
+        } else if (a.numPaginas == b.numPaginas) {
             System.out.println(ERROR_MISMA_CANTIDAD_PAGINAS);
         } else {
-            libroMasPaginas = b;
+            tituloMasPaginas = b.titulo;
         }
 
-        if (libroMasPaginas.getTitulo() != null){
-            System.out.println("El libro con más páginas es " + libroMasPaginas.getTitulo() + ".");
+        if (tituloMasPaginas != ""){
+            System.out.println("El libro con más páginas es " + tituloMasPaginas + ".");
         }
     }
 }
