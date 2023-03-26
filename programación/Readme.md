@@ -112,34 +112,35 @@ Programación
 - Solo cambia el signo delante de -b.
 
 5. [`Ejercicio 0005: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`]()
-- Partiendo de la clase Electrodomestico creada en el [`ejercicio 0001`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001), sabemos que una lavadora es un electrodoméstico, por tanto, crearemos una subclase llamada Lavadora con las siguientes características:
+###5.1.Creación de la subclase Lavadora
+- Partiendo de la clase Electrodoméstico creada en el [`ejercicio 0001`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001), sabemos que una lavadora es un electrodoméstico, por tanto, crearemos una subclase llamada Lavadora con las siguientes características:
 - Su atributo es carga, además de los heredados. Por defecto, la carga es de 5Kg. Usa una constante para esto.
 - Los constructores que se implementarán serán:
    - Un constructor por defecto.
-   - Un constructor con el precio y el peso. La resta por defecto.
+   - Un constructor con el precio y el peso. El resto por defecto.
    - Un constructor con la carga y otros atributos heredados. Recuerda que tienes que llamar al constructor de la clase padre.
 - Los métodos que se implementarán serán:
    - Método get de carga.
    - precioFinal(): si tiene una carga más grande de 40Kg, aumentará su precio 50 euros, si no es así no incrementará el precio. Haz una llamada al método padre y añade el código necesario. Recuerda que las condiciones de la clase Electrodomestico también afectarán al precio.
-   
-- Un televisor, es un Electrodoméstico, por tanto, crearemos una subclase llamada Televisión con las siguientes características:
+###5.2. Creación de la subclase Televisor
+- Un televisor, es un Electrodoméstico, por tanto, crearemos una subclase llamada Televisor con las siguientes características:
 - Sus atributos son: resolución(en pulgadas), sintonizador TDT(boolean), además de los atributos heredados. Por defecto, la resolución será de 20 pulgadas y el sintonizador será false.
-- Los constructores qeu se implementarán serán:
+- Los constructores que se implementarán serán:
    - Un constructor por defecto.
-   - Un constructor con el precio y el peso. La resta por defecto.
+   - Un constructor con el precio y el peso. El resto por defecto.
    - Un constructor con resolución, sintonizador TDT y la resta de atributos heredados. Recuerda que tienes que llamar al constructor de la clase padre.
 - Los métodos que se implementarán serán:
    - Método get de resolución y sintonizador TDT.
    - precioFinal(): si tiene una resolución más grande de 40 pulgadas, se incrementará el precio en un 30% y si tiene un sintonizador TDT incorporado, aumentará 50 euros. Recuerda que las condiciones de la clase Electrodoméstico también afectan al precio.
-
-- Ahora crea una clase ejecutable que haga lo siguiente:
+###5.3. Creación de clase Ejecutable
+- Ahora crea una clase Ejecutable que haga lo siguiente:
    - Crea un array de Electrodomésticos de 10 posiciones.
    - Asigna a cada posición un objeto de las clases anteriores con los valores que quieras.
    - Ahora, recorre este array y ejecuta el método precioFinal().
-   - Tendrás que mostrar el precio de cada clase, es decir, el precio de todas las televisiones por un lado, de todas las lavadoras por otra y la suma de los Electrodomésticos (puedes crear objetos Electrodoméstico, pero recuerda que Television y Lavadora también son electrodomésticos). Recuerda usar el operador instanceOf. Por ejemplo, si tenemos un Electrodoméstico con un precio final de 300, una lavadora de 200 y una televisión de 500, el resultado final será de 1000 (300+200+500) para electrodomésticos, 200 para lavadora y 500 para televisión.
+   - Tendrás que mostrar el precio de cada clase, es decir, el precio de todas las televisiones por un lado, de todas las lavadoras por otra y la suma de los electrodomésticos (puedes crear objetos Electrodoméstico, pero recuerda que Television y Lavadora también son electrodomésticos). Recuerda usar el operador instanceOf. Por ejemplo, si tenemos un electrodoméstico con un precio final de 300, una lavadora de 200 y una televisión de 500, el resultado final será de 1000 (300+200+500) para electrodomésticos, 200 para lavadora y 500 para televisión.
    - Muestra todas las televisiones que tengan un precio superior a 300 euros.
    
-
+6. [`Ejercicio 0006: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`]()
 
 
 
