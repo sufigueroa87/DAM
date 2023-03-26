@@ -112,7 +112,7 @@ Programación
 - Solo cambia el signo delante de -b.
 
 5. [`Ejercicio 0005: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`]()
-- Partiendo de la clase Electrodomestico creada en el [`Ejercicio 0001:`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001), sabemos que una lavadora es un electrodoméstico, por tanto, crearemos una subclase llamada Lavadora con las siguientes características:
+- Partiendo de la clase Electrodomestico creada en el [`ejercicio 0001`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001), sabemos que una lavadora es un electrodoméstico, por tanto, crearemos una subclase llamada Lavadora con las siguientes características:
 - Su atributo es carga, además de los heredados. Por defecto, la carga es de 5Kg. Usa una constante para esto.
 - Los constructores que se implementarán serán:
    - Un constructor por defecto.
