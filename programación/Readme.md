@@ -139,7 +139,7 @@ Programación
    - Ahora, recorre este array y ejecuta el método precioFinal().
    - Tendrás que mostrar el precio de cada clase, es decir, el precio de todas las televisiones por un lado, de todas las lavadoras por otra y la suma de los electrodomésticos (puedes crear objetos Electrodoméstico, pero recuerda que Television y Lavadora también son electrodomésticos). Recuerda usar el operador instanceOf. Por ejemplo, si tenemos un electrodoméstico con un precio final de 300, una lavadora de 200 y una televisión de 500, el resultado final será de 1000 (300+200+500) para electrodomésticos, 200 para lavadora y 500 para televisión.
    
-6. [`Ejercicio 0006: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`]()
+6. [`Ejercicio 0006: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0006)
 - Nos piden hacer un programa que gestione empleados.
 - Los empleados se definen por tener:
    - Nombre
@@ -154,7 +154,7 @@ Programación
 - Crea sus constructores, getters y setters y toString (piensa en aprovechar la herencia).
 - Las clases tendrán un método llamado plus, que según cada clase tendrá una implementación distinta. Este plus aumenta básicamente el salario del empleado.
 - El comercial, si tiene más de 30 años y cobra una comisión de más de 500 euros, se le aplicará el plus.
-- El repartidor, si tiene menos de 25 años, si es mujer y si reparte en la "región 3", recibirá un plus.
+- El asistente, si tiene menos de 25 años, si es mujer y si reparte en la "región 3", recibirá un plus.
 - Crea una clase ejecutable donde crearás un array de empleados. Crea distintos tipos de empleados en el array. Imprime por pantalla el siguiente informe:
    - a) Número de mujeres en la empresa.
    - b) Número de hombres que cobran más de 1000 euros.
