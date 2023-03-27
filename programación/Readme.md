@@ -138,7 +138,6 @@ Programación
    - Asigna a cada posición un objeto de las clases anteriores con los valores que quieras.
    - Ahora, recorre este array y ejecuta el método precioFinal().
    - Tendrás que mostrar el precio de cada clase, es decir, el precio de todas las televisiones por un lado, de todas las lavadoras por otra y la suma de los electrodomésticos (puedes crear objetos Electrodoméstico, pero recuerda que Television y Lavadora también son electrodomésticos). Recuerda usar el operador instanceOf. Por ejemplo, si tenemos un electrodoméstico con un precio final de 300, una lavadora de 200 y una televisión de 500, el resultado final será de 1000 (300+200+500) para electrodomésticos, 200 para lavadora y 500 para televisión.
-   - Muestra todas las televisiones que tengan un precio superior a 300 euros.
    
 6. [`Ejercicio 0006: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`]()
 
