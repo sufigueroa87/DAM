@@ -111,7 +111,7 @@ Programación
 - Fórmula de la ecuación de segundo grado: (-b±√((b^2)-(4*a*c)))/(2*a).
 - Solo cambia el signo delante de -b.
 
-5. [`Ejercicio 0005: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`]()
+5. [`Ejercicio 0005: Herencia. (Ejercicio del INS Esteve Terradas i Illa)`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0005)
 - **5.1. CREACIÓN DE LA SUBCLASE Lavadora:**
 - Partiendo de la clase Electrodoméstico creada en el [`ejercicio 0001`](https://github.com/sufigueroa87/dam/tree/main/programaci%C3%B3n/programaci%C3%B3n_orientada_a_objetos/ejercicio_0001), sabemos que una lavadora es un electrodoméstico, por tanto, crearemos una subclase llamada Lavadora con las siguientes características:
 - Su atributo es carga, además de los heredados. Por defecto, la carga es de 5Kg. Usa una constante para esto.
